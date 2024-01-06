@@ -8,7 +8,7 @@
 
 int min_dist(int dist[], bool set[])
 {
-	int min = 	INT_MAX;
+	int min = INT_MAX;
 	int min_index;
 
 	for (int i = 0; i < V; ++i)
